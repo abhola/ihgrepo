@@ -1,1 +1,4 @@
-This is Ihg File Three
+ This is Ihg File Threei
+
+ We are checking the conflict 
+ this is branch file
