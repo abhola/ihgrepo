@@ -1,1 +1,3 @@
-This is Ihg File Three
+ This is Ihg File Three
+ we are checking conflict 
+ thi is branch file
