@@ -1,1 +1,2 @@
 This is ihg file two and we used this file for learning Git
+we are checking conflict in master file
